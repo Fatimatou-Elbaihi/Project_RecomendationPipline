@@ -1,0 +1,167 @@
+[{
+  "_id": {
+    "$oid": "660a68b9a748bdfd8c1cd648"
+  },
+  "id": null,
+  "username": "neo4j",
+  "password": "7krI6H92LxT1N-8a",
+  "email": null,
+  "profile_picture_url": "http://pbs.twimg.com/profile_images/1183755273753767936/vSV_IPTs_normal.jpg",
+  "location": "Graphs Are Everywhere",
+  "bio": null,
+  "tweets": [
+    {
+      "$numberLong": "1371815021265747970"
+    },
+    {
+      "$numberLong": "1371778287970705408"
+    },
+    {
+      "$numberLong": "1371687808847519748"
+    },
+    {
+      "$numberLong": "1371787098945114113"
+    },
+    {
+      "$numberLong": "1371673079517171712"
+    },
+    {
+      "$numberLong": "1371773486348255233"
+    },
+    {
+      "$numberLong": "1371672671419826177"
+    },
+    {
+      "$numberLong": "1371846247913512966"
+    },
+    {
+      "$numberLong": "1371748138491510786"
+    },
+    {
+      "$numberLong": "1371627279936282624"
+    },
+    {
+      "$numberLong": "1371614692528025601"
+    },
+    {
+      "$numberLong": "1371600097105022981"
+    },
+    {
+      "$numberLong": "1371597145892126720"
+    },
+    {
+      "$numberLong": "1371828856672415752"
+    },
+    {
+      "$numberLong": "1371567636404916228"
+    },
+    {
+      "$numberLong": "1371525104467857416"
+    },
+    {
+      "$numberLong": "1371499112089202694"
+    },
+    {
+      "$numberLong": "1371494149107630088"
+    },
+    {
+      "$numberLong": "1371476477267574785"
+    },
+    {
+      "$numberLong": "1371371339634896900"
+    },
+    {
+      "$numberLong": "1361415227091292163"
+    },
+    {
+      "$numberLong": "1362366837011398657"
+    },
+    {
+      "$numberLong": "1371446591140270080"
+    },
+    {
+      "$numberLong": "1371376124358504450"
+    },
+    {
+      "$numberLong": "1371375923837173760"
+    },
+    {
+      "$numberLong": "1371325418947612679"
+    },
+    {
+      "$numberLong": "1371264932503822339"
+    },
+    {
+      "$numberLong": "1371233185040900106"
+    },
+    {
+      "$numberLong": "1371188637740756995"
+    },
+    {
+      "$numberLong": "1371145602285846532"
+    },
+    {
+      "$numberLong": "1371115666875555841"
+    },
+    {
+      "$numberLong": "1371113960678768640"
+    },
+    {
+      "$numberLong": "1371053532137328642"
+    },
+    {
+      "$numberLong": "1370981771928604675"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "660a68b9a748bdfd8c1cd649"
+  },
+  "id": null,
+  "username": "rotnroll666",
+  "password": "04nfjEcccemlvZwL",
+  "email": null,
+  "profile_picture_url": "http://pbs.twimg.com/profile_images/1368255878714044422/smftxdbx_normal.jpg",
+  "location": "Aachen",
+  "bio": null,
+  "tweets": [
+    {
+      "$numberLong": "1371756686407577611"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "660a68b9a748bdfd8c1cd64a"
+  },
+  "id": null,
+  "username": "ElLazal",
+  "password": "urjYPb4sLbcFwaCU",
+  "email": null,
+  "profile_picture_url": "http://pbs.twimg.com/profile_images/1266076896644694016/d053brzD_normal.jpg",
+  "location": "",
+  "bio": null,
+  "tweets": [
+    {
+      "$numberLong": "1371773392370724864"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "660a68b9a748bdfd8c1cd64b"
+  },
+  "id": null,
+  "username": "lyonwj",
+  "password": "NYyaeUEDDYd4kVD9",
+  "email": null,
+  "profile_picture_url": "http://pbs.twimg.com/profile_images/502931400882794496/Dy9gq9V2_normal.jpeg",
+  "location": "",
+  "bio": null,
+  "tweets": [
+    {
+      "$numberLong": "1371490116640776194"
+    }
+  ]
+}]
